@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  width: 500px;
+  height: 90vh;
+  box-shadow: 0 0 10px 4px #bfbfbf;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+}
